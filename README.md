@@ -1,1 +1,5 @@
-# Controlling-Drone-with-the-help-of-hand-gestures
+# Controlling Drone with the help of hand gestures
+This project aims to design and develop a hand gesture-controlled UAV simulation that allows users to control a UAV through simple hand gestures, without the need for a physical remote or computer interface. The project aims to explore the feasibility and effectiveness of hand gesture-based controls for UAVs, and to develop a simulation that can be used for training and testing purposes in a safe and controlled environment.
+# Innovation
+The use of hand gesture recognition technology to control UAVs is a relatively new concept, and this project seeks to explore its feasibility and effectiveness. This focuses on development of accurate and reliable hand gesture recognition algorithms which is essential part of this project .
+This opens up new possibilities for controlling UAVs in situations where traditional control interfaces may not be feasible or safe, such as in small indoor environments or during search and rescue operations. By providing a more intuitive and user-friendly method of controlling UAVs, the hand gesture-controlled UAV simulation system has the potential to enhance the effectiveness and efficiency of UAV operations, creating new opportunities and applications for this technology.
